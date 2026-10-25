@@ -10,6 +10,6 @@ class SpringCheckCicdApplicationTests {
 	void contextLoads() {
 	}
 
-	@Test void additionShouldReturnCorrectResult() { int result = 10 + 20; assertEquals(40, result); }
+	@Test void additionShouldReturnCorrectResult() { int result = 10 + 20; assertEquals(30, result); }
 
 }
